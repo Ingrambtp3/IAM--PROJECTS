@@ -4,7 +4,7 @@ This repository documents my journey into IAM, covering Azure Entra ID, Okta, AW
 Each week, I explore new IAM concepts, apply hands-on labs, and share my learnings.  
 
 ## 📂 Weekly Progress  
-- [Week 1 - Azure Conditional Access & MFA](Week-1-IAM/README.md)  
+- [Week 1 - Azure Conditional Access & MFA](week-1-iam)  
 
 
 ## 🔥 Topics Covered  
