@@ -18,14 +18,14 @@ During an internal audit, a test user account was found with Global Administrato
 5. Enabled Privileged Identity Management (PIM) for all administrative roles.
 6. Documented findings, actions taken, and updated internal IAM best practices.
 
-## Outcome
+## Outcome☄️
 ✅ Successfully removed excessive permissions, reducing security risk.
 
 ✅ Access Reviews and PIM to maintain least privilege and enforce periodic review of privileged access.
 
 ✅Improved documentation and operational processes for ongoing IAM governance.
 
-## Lessons Learned
+## Lessons Learned✨
 ✅Over-privileged accounts significantly increase organizational risk and must be addressed promptly.
 
 ✅Access Reviews and PIM are essential tools for sustaining a secure IAM environment.
