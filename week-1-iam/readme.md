@@ -10,7 +10,7 @@ This week, I worked on Azure Entra ID’s Conditional Access policies, enforced 
 
 ## 🔹 Screenshots & Configurations  
 📸 **Screenshots:**  
-_(Add images here)![Screenshot 2025-03-29 at 1 26 51 PM](https://github.com/user-attachments/assets/deeb462a-9ac4-48ab-b4b1-927223e120fe)
+![Screenshot 2025-03-29 at 1 26 51 PM](https://github.com/user-attachments/assets/deeb462a-9ac4-48ab-b4b1-927223e120fe)
 ![Screenshot 2025-03-29 at 1 28 39 PM](https://github.com/user-attachments/assets/5d3cd708-6f07-4775-a1eb-e1aa6acaec60)
 ![Screenshot 2025-03-29 at 1 33 24 PM](https://github.com/user-attachments/assets/e1d5feae-061f-42ee-97f3-6a48ec08f6bf)
 ![Screenshot 2025-03-29 at 1 38 06 PM](https://github.com/user-attachments/assets/72be1617-b3dc-461b-ab48-f8e3f60f2106)
