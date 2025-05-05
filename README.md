@@ -40,4 +40,4 @@ I authenticated with a custom app registration, queried Access Review instances 
 - Identity Governance automation
 - Least privilege enforcement
 
-📁 Project Folder: [Week 4 – PowerShell Access Review Automation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%204%20–%20PowerShell%20Access%20Review%20Automation)
+📁 Project Folder: [Week 4 – PowerShell Access Review Automation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/WEEK%204%20Automation)
