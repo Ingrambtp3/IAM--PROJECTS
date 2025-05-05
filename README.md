@@ -24,8 +24,7 @@ Each week, I explore new IAM concepts, apply hands-on labs, and share my learnin
 ✅ Privileged Identity Management (PIM) for secure and controlled administrative access.
 
 ### Weekly Progress (WEEK 3)
-- [Week 3 – Access Reviews in Entra ID](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%203#readme)
-
+- [Week 3 – Access Reviews in Entra ID][(https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%203%20Access%20Reviews)]
 ### ✅ Topics Covered
 - Set up and tested Access Reviews to ensure users still need access
 - Assigned reviewers and applied decisions to remove unnecessary access
