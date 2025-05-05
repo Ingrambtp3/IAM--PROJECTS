@@ -60,5 +60,7 @@ A sample CSV (e.g., `AccessReview_Results.csv`) might include:
 ---
 
 📁 **Full Script Available Here:**  
-`Week 4 – PowerShell Access Review Automation/AccessReviewAutomation.ps1`
+`Week 4 – [(https://github.com/Ingrambtp3/IAM--PROJECTS/blob/main/WEEK%204%20Automation/AccessReviewAutomation.ps1)]
+
+![Screenshot 2025-05-05 at 4 13 51 PM](https://github.com/user-attachments/assets/0f42f5a8-d059-4e1e-8014-f671f6b36d5e)
 
