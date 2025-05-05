@@ -14,7 +14,7 @@ Each week, I explore new IAM concepts, apply hands-on labs, and share my learnin
 ✅ IAM Best Practices & Security Principles  
 
 ## 📂 Weekly Progress (WEEK 2)
--[(https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%202#readme)]
+-[Week 2 Scenario Based Remediation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%202#readme)
 
 ## 🔥 Topics Covered  
 ✅Identify and remove excessive privileges from the test account.
@@ -24,12 +24,13 @@ Each week, I explore new IAM concepts, apply hands-on labs, and share my learnin
 ✅ Privileged Identity Management (PIM) for secure and controlled administrative access.
 
 ### Weekly Progress (WEEK 3)
-- [Week 3 – Access Reviews in Entra ID][(https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%203%20Access%20Reviews)]
+- [Week 3 – Access Reviews in Entra ID](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%203%20Access%20Reviews)
 ### ✅ Topics Covered
 - Set up and tested Access Reviews to ensure users still need access
 - Assigned reviewers and applied decisions to remove unnecessary access
-- Practiced governance and cleanup using built-in tools in Entra ID  
-### ✅ WEEK 4 – Automating Access Review Insights with PowerShell
+- Practiced governance and cleanup using built-in tools in Entra ID
+  
+### 🛡️WEEK 4 – Automating Access Review Insights with PowerShell 🛡️
 
 In this lab, I automated the process of pulling Access Review decision data using PowerShell and the Microsoft Graph API.  
 I authenticated with a custom app registration, queried Access Review instances and decisions, and exported the results to a CSV for auditing.
