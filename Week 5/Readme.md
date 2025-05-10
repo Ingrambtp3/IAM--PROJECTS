@@ -1,4 +1,4 @@
-# Week 5 – Automate Temporary Role Activation via Entra ID PIM + PowerShell
+# 🛡️Week 5 – Automate Temporary Role Activation via Entra ID PIM + PowerShell🛡️
 
 ## 🧠 Scenario
 In a real-world enterprise, giving employees standing admin access is risky. The organization wants to make sure users can only activate high-privilege roles (like Security Administrator) **temporarily**, and **only when needed** — a concept called **Just-In-Time (JIT) access**.
@@ -51,14 +51,14 @@ This shows what roles the user is eligible to activate. In this scenario, it's t
 
 ### 🚀5. Activated the Role Manually via Script
 ![Screenshot 2025-05-10 at 5 54 14 PM](https://github.com/user-attachments/assets/77f51d45-872b-41d1-8fa7-7f7ba3f640ba)
+
 This activates the eligible role TEMPORARILY using Microsoft Graph.
 
 ---
 
 ###🛠️ BONUS: Enterprise Ready Script
 I created a reusable script called Activate-PIMRole.ps1 
-
----
+[(https://github.com/Ingrambtp3/IAM--PROJECTS/blob/main/Week%205/Activate-PIMRole.ps1)]
 
 
 
