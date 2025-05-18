@@ -61,3 +61,17 @@ I authenticated with a custom app registration, queried Access Review instances 
 
 📁 Project Folder: [Week 5 - PIM Role Activation Automation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%205)
 
+---
+
+### 🔎 Week 6 – PIM Role Audit & Auto-Cleanup Script
+**Goal:** Detect and clean up Entra ID PIM role assignments that remain active beyond their allowed time window using PowerShell and Microsoft Graph API.
+
+**What I did:**
+- Connected to Microsoft Graph to retrieve all **active role assignments**
+- Used PowerShell to check which roles were still active **after 1 hour**
+- Exported flagged assignments to a CSV for auditing
+- Built in optional auto-removal logic for roles that break policy
+- Created a **mock data test script** to simulate violations for testing
+
+📁 Project Folder: [Week 6-PIM Role Audit & Auto-Cleanup](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%206#readme)
+
