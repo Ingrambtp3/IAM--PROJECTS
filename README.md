@@ -1,7 +1,7 @@
 # Identity and Access Management (IAM) Journey 🚀  
 
-This repository documents my journey into IAM, covering Azure Entra ID, Okta, AWS IAM, and security best practices.  
-Each week, I explore new IAM concepts, apply hands-on labs, and share my learnings.  
+This repository showcases my hands-on work and implementations across key IAM domains including Microsoft Entra ID, Okta, AWS IAM, and identity governance best practices.  
+Each weekly project simulates real-world IAM responsibilities such as access reviews, privileged access control, identity lifecycle automation, and zero trust enforcement.
 ---
 
 ## 📂 Weekly Progress  (WEEK 1)
@@ -75,3 +75,13 @@ I authenticated with a custom app registration, queried Access Review instances 
 
 📁 Project Folder: [Week 6-PIM Role Audit & Auto-Cleanup](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%206#readme)
 
+---
+
+### ✅ Week 7 – Inactive Guest User Cleanup
+
+- Scripted the detection and reporting of inactive guest accounts in Microsoft Entra ID  
+- Used Microsoft Graph PowerShell SDK to pull all guest users and check last sign-in timestamps  
+- Exported inactive accounts (30+ days or never signed in) to a CSV report  
+- Simulated lifecycle cleanup and identity hygiene used in enterprise IAM practices
+
+🔗 Project Folder: [Week 7 – Inactive Guest User Cleanup](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/week%207)
