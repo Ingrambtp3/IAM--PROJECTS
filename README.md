@@ -1,8 +1,24 @@
-# Identity and Access Management (IAM) Journey 🚀  
+# 🛡️ Identity & Access Management (IAM) Labs – By The BYTEKAGE
 
-This repository showcases my hands-on work and implementations across key IAM domains including Microsoft Entra ID, Okta, AWS IAM, and identity governance best practices.  
-Each weekly project simulates real-world IAM responsibilities such as access reviews, privileged access control, identity lifecycle automation, and zero trust enforcement.
+Welcome to my IAM project series — a hands-on portfolio designed to showcase real-world Identity and Access Management implementations using Microsoft Entra ID, Auth0, PowerShell, and Microsoft Graph API.
+
+These labs reflect my practical experience and professional growth as I transition deeper into the IAM space, building the technical skills required to design, secure, and automate modern identity systems.
+
+🧠 I'm not just learning — I'm executing.  
+📈 I'm not just documenting — I'm building.  
+🌍 I'm not just growing — I'm showing the path for others breaking into tech.
+
 ---
+
+## 🎯 Why These Labs Matter
+
+- Every project simulates a real-world scenario an IAM engineer or security analyst would face
+- Each lab reinforces identity governance, automation, role-based access control, SSO, and more
+- I use these labs to deepen my own mastery **and** to help others see what it looks like to do the work that earns the role
+
+Whether you're a hiring manager, aspiring IAM pro, or someone curious about what identity looks like in action — this repo shows the receipts.
+
+------
 
 ## 📂 Weekly Progress  (WEEK 1)
 - [Week 1 - Azure Conditional Access & MFA](week-1-iam)  
@@ -85,3 +101,35 @@ I authenticated with a custom app registration, queried Access Review instances 
 - Simulated lifecycle cleanup and identity hygiene used in enterprise IAM practices
 
 🔗 Project Folder: [Week 7 – Inactive Guest User Cleanup](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/week%207)
+
+---
+
+# 🔐 Week 8 – SAML SSO Lab: Auth0 (IdP) → Microsoft Entra ID (SP)
+
+In this lab, I configured a SAML-based Single Sign-On (SSO) flow using **Auth0 as the Identity Provider (IdP)** and **Microsoft Entra ID as the Service Provider (SP)**. I manually set up the SAML integration by exporting metadata from Auth0, uploading the X.509 signing certificate into Entra, and defining the ACS and Entity ID settings. After assigning a test user in Entra, I confirmed the flow end-to-end using an IdP-initiated login that redirected to a custom GitHub Pages landing page.
+
+---
+
+## ✅ Key Topics Covered
+
+- SAML 2.0 protocol fundamentals: NameID, ACS URL, Entity ID
+- Identity federation between Auth0 and Entra ID
+- X.509 certificate trust setup in Entra
+- Redirect handling and custom post-login landing pages
+- Real-world SSO lab structure and documentation
+
+---
+
+## 🧰 Tools & Technologies
+
+- Auth0 (SAML IdP)
+- Microsoft Entra ID (SAML SP)
+- X.509 Certificates
+- GitHub Pages
+
+---
+
+## 🔐 Outcome
+
+This project shows how to federate identity between a third-party IdP and Microsoft Entra using SAML 2.0. It simulates real enterprise SSO setups and reinforces identity federation, assertion handling, and trust relationships across platforms.
+🔗 Project Folder: [Week 8- SAML SSO Lab: Auth0 (IdP) → Microsoft Entra ID (SP)](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/week%208)
