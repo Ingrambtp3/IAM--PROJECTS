@@ -133,3 +133,37 @@ In this lab, I configured a SAML-based Single Sign-On (SSO) flow using **Auth0 a
 
 This project shows how to federate identity between a third-party IdP and Microsoft Entra using SAML 2.0. It simulates real enterprise SSO setups and reinforces identity federation, assertion handling, and trust relationships across platforms.
 🔗 Project Folder: [Week 8- SAML SSO Lab: Auth0 (IdP) → Microsoft Entra ID (SP)](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/week%208)
+
+---
+
+# 🔐 Week 9 – Hybrid Identity Lab: bytekagelab.local → Microsoft Entra ID
+
+In this lab, I created a hybrid identity environment by deploying a Windows Server 2019 VM in Azure and configuring it as a domain controller (`bytekagelab.local`). I installed Azure AD Connect and synced on-prem AD users to Microsoft Entra ID. This simulates how organizations bridge legacy identity infrastructure with cloud-based directories.
+
+---
+
+## ✅ Key Topics Covered
+
+- Active Directory Domain Services (AD DS) configuration
+- Azure AD Connect setup and sync
+- PowerShell-based manual sync triggering
+- Troubleshooting module import and sync cmdlets
+- Hybrid identity architecture in real-world environments
+
+---
+
+## 🧰 Tools & Technologies
+
+- Windows Server 2019 (Azure VM)
+- Active Directory Domain Services (AD DS)
+- Azure AD Connect
+- Microsoft Entra ID (Azure AD)
+- PowerShell
+
+---
+
+## 🔐 Outcome
+
+This project demonstrates how hybrid identity works by integrating on-prem AD with Microsoft Entra. I gained hands-on experience with directory synchronization, identity provisioning, and PowerShell troubleshooting — replicating enterprise IAM workflows.
+
+🔗 Project Folder: [Week 9 – Hybrid Identity Lab][(https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/week09-hybrid-identity-ad-sync)]
