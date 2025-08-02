@@ -167,3 +167,37 @@ In this lab, I created a hybrid identity environment by deploying a Windows Serv
 This project demonstrates how hybrid identity works by integrating on-prem AD with Microsoft Entra. I gained hands-on experience with directory synchronization, identity provisioning, and PowerShell troubleshooting — replicating enterprise IAM workflows.
 
 🔗 Project Folder: [Week 9 – Hybrid Identity Lab][(https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/week09-hybrid-identity-ad-sync)]
+
+---
+
+# 🔐 Week 10 – Hybrid Identity Access Governance: Group-Based App Provisioning
+
+In this lab, I extended my hybrid identity environment by implementing role-based access control (RBAC) and automated cloud app provisioning. I created security groups in on-prem Active Directory, synced them to Microsoft Entra ID using Azure AD Connect, and assigned these groups to the ServiceNow app. I then added test users to the on-prem groups and verified that access was automatically granted in the cloud.
+
+---
+
+## ✅ Key Topics Covered
+
+- On-prem AD security group creation and structure  
+- Azure AD Connect group synchronization  
+- Enterprise application assignment to groups in Microsoft Entra  
+- Automatic cloud access provisioning through group membership  
+- Real-world RBAC and onboarding simulation
+
+---
+
+## 🧰 Tools & Technologies
+
+- Windows Server 2019 (Azure VM)  
+- Active Directory Users and Computers (ADUC)  
+- Azure AD Connect  
+- Microsoft Entra ID (Azure AD)  
+- ServiceNow (Enterprise App)
+
+---
+
+## 🔐 Outcome
+
+This project showcases how organizations can automate access provisioning using group-based role assignments. By linking on-prem group membership to cloud app access through Entra ID, I simulated a real-world identity governance flow that improves onboarding efficiency and enforces least privilege.
+
+🔗 Project Folder: [Week 10 – Hybrid Identity Access Governance](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%2010)
