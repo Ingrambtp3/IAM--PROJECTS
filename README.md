@@ -26,9 +26,8 @@ Whether you're a hiring manager, aspiring IAM pro, or someone curious about what
 ---
 
 ## 🔥 Topics Covered  
-✅ Azure Entra ID (Conditional Access, MFA, RBAC)  
-✅ Okta SSO, Group-Based Access Control  
-✅ AWS IAM Roles, Policies, CloudTrail Logs  
+✅ Azure Entra ID (Conditional Access, MFA, RBAC)   
+✅ ENTRA ID IAM Roles, Policies, CloudTrail Logs  
 ✅ IAM Best Practices & Security Principles  
 
 ---
