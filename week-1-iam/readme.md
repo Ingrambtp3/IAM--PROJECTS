@@ -1,12 +1,12 @@
 # Week 1 - IAM Progress Report 🛡️  
 
 ## 🔹 Overview  
-This week, I worked on Azure Entra ID’s Conditional Access policies, enforced MFA, and explored IAM roles in AWS.  
+This week, I worked on Azure Entra ID’s Conditional Access policies, enforced MFA, and explored IAM roles in ENTRA ID.   
 
 ## 🔹 Tasks Completed  
 - ✅ Configured Conditional Access in **Azure Entra ID** to enforce MFA.  
 - ✅ Tested MFA settings for user authentication.  
-- ✅ Created IAM roles in **AWS IAM** and assigned permissions.  
+- ✅ Created IAM roles in **ENTRA ID** and assigned permissions.  
 
 ## 🔹 Screenshots & Configurations  
 📸 **Screenshots:**  
