@@ -200,3 +200,18 @@ In this lab, I extended my hybrid identity environment by implementing role-base
 This project showcases how organizations can automate access provisioning using group-based role assignments. By linking on-prem group membership to cloud app access through Entra ID, I simulated a real-world identity governance flow that improves onboarding efficiency and enforces least privilege.
 
 🔗 Project Folder: [Week 10 – Hybrid Identity Access Governance](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%2010)
+
+---
+
+### 🧩 WEEK 11 – Keycloak IAM Lifecycle (Joiner–Mover–Leaver)
+
+Built a **full IAM lifecycle simulation** inside **Keycloak + Docker**, covering the **Joiner → Mover → Leaver** process used in enterprise identity governance.  
+Implemented **RBAC**, **MFA**, **SSO (OIDC)**, and **audit logging** to demonstrate how identity, security, and compliance work together.
+
+🔑 **Skills Practiced:**  
+Keycloak | Docker | JML Lifecycle | RBAC | MFA | SSO (OIDC) | Audit Governance  
+
+💡 **Focus:**  
+Lifecycle automation, Zero Trust enforcement, and troubleshooting real-world IAM issues like misconfigured redirect URIs and disabled accounts.
+
+📁 **Project Folder:** [Week 11 – Keycloak IAM Lifecycle (JML)](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%2011%20Keycloak%20JML)
