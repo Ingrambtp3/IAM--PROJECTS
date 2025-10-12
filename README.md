@@ -214,4 +214,4 @@ Keycloak | Docker | JML Lifecycle | RBAC | MFA | SSO (OIDC) | Audit Governance
 💡 **Focus:**  
 Lifecycle automation, Zero Trust enforcement, and troubleshooting real-world IAM issues like misconfigured redirect URIs and disabled accounts.
 
-📁 **Project Folder:** [Week 11 – Keycloak IAM Lifecycle (JML)](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%2011%20Keycloak%20JML)
+📁 **Project Folder:** [Week 11 – Keycloak IAM Lifecycle (JML)](https://github.com/Ingrambtp3/IAM--PROJECTS/blob/main/Week%2011/readme.md)
