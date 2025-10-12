@@ -132,24 +132,20 @@ Build a complete **Identity and Access Management (IAM)** lifecycle using **Keyc
 
 ---
 
+
 ## 📸 Screenshots  
 
-<img width="500" alt="Realm Created" src="screenshots/01_realm_created.png" />  
-<img width="500" alt="Roles Created" src="screenshots/02_roles.png" />  
-<img width="500" alt="Groups Configured" src="screenshots/02_groups.png" />  
-<img width="500" alt="User Created" src="screenshots/03_user_created.png" />  
-<img width="500" alt="User Added to HR" src="screenshots/03_user_added_to_HR.png" />  
-<img width="500" alt="MFA Policy" src="screenshots/05_mfa_policy.png" />  
-<img width="500" alt="MFA Required" src="screenshots/05_mfa_required.png" />  
-<img width="500" alt="Authenticator Setup" src="screenshots/07_authenticator_qr.png" />  
-<img width="500" alt="SSO Config" src="screenshots/11_sso_client_step1.png" />  
-<img width="500" alt="Page Not Found" src="screenshots/12_page_not_found.png" />  
-<img width="500" alt="Fixed URLs" src="screenshots/13_fixed_sso_urls.png" />  
-<img width="500" alt="Group Change" src="screenshots/09_group_change_helpdesk.png" />  
-<img width="500" alt="Leaver Disabled" src="screenshots/11_leaver_disabled_user.png" />  
-<img width="500" alt="Audit Admin Logs" src="screenshots/audit_admin_events.png" />  
-<img width="500" alt="Audit User Logs" src="screenshots/audit_user_events.png" />  
+All project screenshots — including realm creation, RBAC setup, MFA enforcement, SSO configuration, and audit logging — are available in the folder below:
 
+👉 [View All Screenshots](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week%2011%20Keycloak%20JML/screenshots)
+
+Each image follows the full Joiner → Mover → Leaver workflow:
+- Realm & Role Setup  
+- User Creation & MFA  
+- SSO Configuration  
+- Account Deactivation & Auditing  
+
+If you’re walking through this lab, open each image in order to visually follow the lifecycle process from start to finish.
 ---
 
 ## 🧠 Lessons Learned  
