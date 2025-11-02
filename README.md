@@ -215,3 +215,25 @@ Keycloak | Docker | JML Lifecycle | RBAC | MFA | SSO (OIDC) | Audit Governance
 Lifecycle automation, Zero Trust enforcement, and troubleshooting real-world IAM issues like misconfigured redirect URIs and disabled accounts.
 
 📁 **Project Folder:** [Week 11 – Keycloak IAM Lifecycle (JML)](https://github.com/Ingrambtp3/IAM--PROJECTS/blob/main/Week%2011/readme.md)
+
+---
+
+ ### 🔐 Week 12 – Okta ⇄ Salesforce Lifecycle Automation (SSO + Provisioning)
+
+In this lab, I integrated **Okta** with **Salesforce** to automate the full **Joiner–Mover–Leaver (JML)** identity lifecycle.  
+This project brings together **SAML SSO** for secure authentication and **SCIM provisioning (OAuth)** for seamless user management — exactly how real enterprises connect SaaS platforms to their identity providers.
+
+✅ Key Topics Covered 
+- Configured SAML SSO between Okta (IdP) and Salesforce (SP)  
+- Enabled SCIM provisioning via OAuth for automated user creation, updates, and deactivation  
+- Implemented Joiner, Mover, and Leaver scenarios to simulate real identity lifecycle events  
+- Verified updates through Okta System Logs and Salesforce user records  
+
+ 🧰 Tools & Technologies 
+Okta | Salesforce | SAML | SCIM | OAuth | Lifecycle Management  
+
+ 💡 Focus 
+Demonstrated how identity automation eliminates manual onboarding/offboarding, reduces data exposure risk, and ensures compliance.  
+By the end of this lab, Okta was the single source of truth — creating, updating, and disabling Salesforce users in real time based on profile changes.
+
+📁 **Project Folder:** [Week 12 – Okta ⇄ Salesforce Lifecycle Automation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week-12-OktaxSalesforce-JML)
