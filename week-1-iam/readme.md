@@ -1,25 +1,25 @@
 # Conditional Access & MFA Enforcement – Azure Entra ID
 
-## 1. Problem  
+## 1. Problem🧐
 
 Organizations that rely solely on username and password authentication are vulnerable to credential-based attacks such as phishing, password reuse, and brute force attempts. Without enforced multi-factor authentication (MFA) and conditional access controls, unauthorized access can occur even when credentials are valid.
 
-## 2. Objective
+## 2. Objective💡
 
 The objective of this implementation was to strengthen identity security by enforcing MFA through Conditional Access policies in Azure Entra ID, ensuring users authenticate with additional verification factors and reducing the risk of account compromise.
 
-## 3. Solution Overview
+## 3. Solution Overview✅
 
 Azure Entra ID Conditional Access policies were configured to require MFA for targeted users during sign-in. Identity roles were reviewed and assigned to ensure appropriate access control, and authentication behavior was validated through sign-in logs to confirm policy enforcement.
 
-## 4. Implementation Summary
+## 4. Implementation Summary📋
 
 - Configured Conditional Access policies in Azure Entra ID to require MFA
 - Enforced MFA for user authentication during sign-in
 - Reviewed and assigned IAM roles based on access requirements
 - Validated authentication enforcement using Entra ID sign-in logs
 
-## 5. Validation & Evidence
+## 5. Validation & Evidence🕵️‍♂️
 
 Policy enforcement was validated by reviewing sign-in logs within Azure Entra ID. Successful authentication attempts confirmed MFA prompts were triggered as expected and Conditional Access policies were applied correctly.
 
@@ -29,11 +29,11 @@ Screenshots included in this repository demonstrate:
 - User sign-in logs showing policy application
 - Role assignments within Entra ID
 
-## 6. Security Impact
+## 6. Security Impact🔐
 
 This implementation reduces the likelihood of unauthorized access by ensuring stolen or compromised credentials alone are insufficient for authentication. Enforcing MFA through Conditional Access strengthens the organization’s identity security posture, improves audit visibility, and aligns with zero trust security principles.
 
-## Before vs After Risk Comparison
+## Before vs After Risk Comparison💻
 
 **Before:**
 - Authentication relied primarily on single-factor credentials
