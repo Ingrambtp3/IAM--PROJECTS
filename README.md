@@ -237,3 +237,17 @@ Demonstrated how identity automation eliminates manual onboarding/offboarding, r
 By the end of this lab, Okta was the single source of truth — creating, updating, and disabling Salesforce users in real time based on profile changes.
 
 📁 **Project Folder:** [Week 12 – Okta ⇄ Salesforce Lifecycle Automation](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week-12-OktaxSalesforce-JML)
+---
+
+# 🔐 Week 13 – Entra ID as IdP: SAML SSO App Onboarding
+
+In this lab, I onboarded a SaaS app to Microsoft Entra ID using SAML 2.0 SSO, with Entra as the identity provider. I configured the Entity ID, ACS URL, and NameID, exchanged the signing certificate, and enforced access with `Assignment required`. Along the way I found and fixed a signing-certificate trust mismatch, and used Entra sign-in logs to isolate an app-side failure. The lab is mapped to NIST SP 800-53 (AC-2, AC-3, AC-6, IA-2, IA-5(2), SC-12, AU-6) and CySA+ topics, and comes with an SSO/MFA troubleshooting playbook.
+
+## 🔥 Topics Covered
+✅ SAML 2.0 SSO with Entra ID as IdP
+✅ Signing certificate trust & rotation risk
+✅ Assignment-based access enforcement
+✅ Sign-in log troubleshooting (AADSTS codes)
+✅ NIST 800-53 + CySA+ mapping
+
+🔗 Project Folder: [Week 13 – Entra SAML SSO](https://github.com/Ingrambtp3/IAM--PROJECTS/tree/main/Week-13-Entra-SAML-SSO)
